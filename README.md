@@ -6,8 +6,8 @@
 
 Канал и чат в Telegram (для всего потока), чаты групп: см. на online.hse.ru
 
-Плейлист с лекциями.
+[Плейлист с лекциями](https://www.youtube.com/playlist?list=PLkBdGfNz-0qMQQoYijFIryBMEdT7CaaQP)
 
 Ведомость с оценками – в разделе "Оценки" на курсе на online.hse.ru
 
-Форма для обратной связи.
+[Форма для обратной связи](https://forms.gle/CmgRjDBh1jaAnTqv7)
